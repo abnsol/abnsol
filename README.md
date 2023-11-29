@@ -1,4 +1,4 @@
-![Profile Image](https://github.com/abnsol/abnsol/commit/8d975f0f653b5db2cc70263950485767758e13d6)
+![Profile Image](https://github.com/abnsol/abnsol/blob/main/Github.png)
 # Hi there 👋
 <!--
 **abnsol/abnsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
