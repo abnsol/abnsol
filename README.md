@@ -8,5 +8,5 @@ I'm Abenezer.I am currently studying Engineering at Addis Ababa Institute of Tec
 
 💬 Always up for engaging discussions and sharing insights on subjects that spark my curiosity.
 
-📫 Reach me at abenisolo51196 [at] gmail [dot] com
+📫 Reach me at [Email](mailto:abenisolo51196@gmail.com)
 
