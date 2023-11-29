@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile Image](paste_your_image_url_here)
+![Profile Image](https://github.com/abnsol/abnsol/blob/main/Corp-Content-Page-Banner-6250x2084-1.jpg)
 <!--
 **abnsol/abnsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
