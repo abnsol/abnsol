@@ -10,3 +10,12 @@ I'm Abenezer.I am currently studying Engineering at Addis Ababa Institute of Tec
 
 📫 Reach me at [Email](mailto:abenisolo51196@gmail.com)
 
+Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/abenezer-tibebe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abenezer-tibebe" height="30" width="40" /></a>||
+<a href="https://instagram.com/_abeni.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abeni.s" height="30" width="40" /></a>
+</p>
+Languages and Tools:
+
+<p align="left"> 
+  <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
