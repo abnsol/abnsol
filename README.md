@@ -20,6 +20,4 @@ Languages and Tools:
 <p align="left"> 
   <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abnsol&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnsol&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
