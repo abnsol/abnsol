@@ -46,8 +46,7 @@ Let's connect and build something amazing together!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abnsol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_repo=Competitive-Programming&hide=Cython,C)
 ![](https://github-readme-stats.vercel.app/api?username=abnsol&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=issues)
 <br>
-<br >
-![](https://nirzak-streak-stats.vercel.app/?user=abnsol&theme=dark&hide_border=false)<br >
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=abnsol&theme=dark&hide_border=false)<br > -->
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezer-solomon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abnsoltibebe@gmail.com) 
