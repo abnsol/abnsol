@@ -1,15 +1,16 @@
 ## About Me
 Hey there 👋
 
-I'm Abenezer, a software engineering student at Addis Ababa University (AAiT) in Ethiopia. I'm diving deep into Full-Stack Web Development and AI/ML, building exciting projects and contributing to open-source.
+Hello, I’m Abenezer. I am a software engineering student at Addis Ababa University (AAiT) in Ethiopia. I am currently an intern at icog labs, where I work on projects related to AGI, AI, and machine learning. I also have experience in full stack development and enjoy contributing to open-source projects.
 
-I'm seeking for collaborations and open-source contributions to expand my skills and create impactful solutions. <br>
-Let's connect and build something amazing together!
+I am interested in working with others and joining open-source efforts to learn more and help build useful solutions.
+Feel free to reach out—let’s build something great together!
 
 ## Tech Stack
 - Languages
 <p align="left">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/go-3670A0?style=for-the-badge&amp;logo=go&amp;logoColor=ffdd54" alt="Go" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
@@ -21,6 +22,7 @@ Let's connect and build something amazing together!
 - Frameworks & Libraries
 <p align="left">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/gin-3670A0?style=for-the-badge&amp;logo=go&amp;logoColor=ffdd54" alt="Gin" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js" />
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS" />
@@ -30,14 +32,15 @@ Let's connect and build something amazing together!
 - Databases
 <p align="left">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
 </p>
 
 - Cloud & Tools
 <p align="left">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/jupyter-%23000000.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
 </p>
